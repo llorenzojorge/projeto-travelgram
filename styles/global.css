@@ -45,3 +45,8 @@ a:hover {
 .bg-surface-color {
     background-color: var(--surface-color);
 }
+
+.h1 {
+    font: var(--heading1);
+    color: var(--text-color-primary);
+}
