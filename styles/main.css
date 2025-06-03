@@ -12,6 +12,6 @@ main img {
     object-fit: cover;
 }
 
-main img:nth-child(2):hover {
-    border-radius: 50%;
-}
+/* main img:nth-child(2):hover {
+
+} */
