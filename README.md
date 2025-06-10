@@ -1,5 +1,7 @@
 # 🌍 Projeto: Travelgram – Perfil de Viagens
 
+![Visual do projeto Travelgram](assets/preview.png)
+
 Este é um projeto simples e visual de uma página de perfil de viagens, desenvolvido como prática de **HTML5**, **CSS3** e, especialmente, **Flexbox**. O foco principal foi aplicar conceitos fundamentais de **layout flexível**, alinhamento e espaçamento entre elementos.
 
 ## 🔗 Acesse o projeto online
